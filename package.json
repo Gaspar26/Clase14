@@ -1,0 +1,11 @@
+{
+  "name": "clase14",
+  "version": "1.0.0",
+  "description": "Mi primer programa con node",
+  "main": "gitYgithub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
